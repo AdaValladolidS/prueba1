@@ -7,5 +7,9 @@ Este proyecto sera el inicio de acabar con el mundo
 ## Requerimientos
 | Software     | Version    | Pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| Visual Code | -  | - |
+| SublimeText | - | -    |
+| Lavarel | -   | -   |
+| Xamp | - | -   |
+
+
