@@ -5,7 +5,7 @@ Este proyecto sera el inicio de acabar con el mundo
     - plaga
     - covid
 ## Requerimientos
-| Day     | Meal    | Price |
+| Software     | Version    | Pagina |
 | --------|---------|-------|
 | Monday  | pasta   | $6    |
 | Tuesday | chicken | $8    |
