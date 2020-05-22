@@ -4,14 +4,16 @@ Este proyecto sera el inicio de acabar con el mundo
     - bichito
     - plaga
     - covid
-## Requerimientos Funcionales
+    
+
+### Requerimientos Funcionales
     *El Aplicativo reservara la cita
     *El Aplicativo permitira logearse con gmail
     *El Aplicativo registrara al usuario
     *El Aplicativo realizar un reporte de cupos de cita
     *El aplicativo gestionara el historial clínico
 
-## Requirimientos No Funcionales
+### Requirimientos No Funcionales
     *El aplicativo gestionara el historial clinico de manera rapida
     *El aplicativo sera de uso facil
     *El aplicativo guardara los datos del cliente
